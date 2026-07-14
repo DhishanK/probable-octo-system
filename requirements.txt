@@ -3,4 +3,4 @@ yfinance
 pandas
 sqlalchemy
 datetime
-psycopg
+psycopg[binary]
